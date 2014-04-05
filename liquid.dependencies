@@ -1,25 +1,25 @@
 [
   {
-    "remote": "cm",
-    "repository": "android_device_qcom_common",
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision": "cm-11.0"
   },
   {
-    "remote": "ls",
-    "repository": "android_device_motorola_qcom-common",
+    "remote": "github",
+    "repository": "LiquidSmooth/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
     "revision": "kitkat"
   },
   {
-    "remote": "ls",
-    "repository": "android_kernel_motorola_msm8960dt-common",
+    "remote": "github",
+    "repository": "LiquidSmooth/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
     "revision": "kitkat"
   },
   {
-    "remote": "tm",
-    "repository": "proprietary_vendor_motorola",
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "revision": "cm-11.0"
   }
