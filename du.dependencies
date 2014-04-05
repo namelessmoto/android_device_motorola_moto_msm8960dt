@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "LiquidSmooth/android_device_motorola_qcom-common",
+    "repository": "TEAM-Gummy/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "kitkat"
+    "revision": "kk4.4"
   },
   {
     "remote": "github",
