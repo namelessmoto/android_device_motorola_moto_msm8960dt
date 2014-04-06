@@ -138,7 +138,6 @@
                    <item>mic_boost=yes=no</item> -->
     <!-- <string-array name="config_telephony_set_audioparameters" translatable="false"> -->
          <!-- Todo check these for open source qcom mi2s usecase -->
-    </string-array>
 
     <!-- Base "touch slop" value used by ViewConfiguration as a
          movement threshold where scrolling should begin. -->
