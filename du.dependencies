@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "TEAM-Gummy/android_device_motorola_qcom-common",
+    "repository": "dirtymotox/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "kk4.4"
+    "revision": "cm-11.0"
   },
   {
     "remote": "github",
