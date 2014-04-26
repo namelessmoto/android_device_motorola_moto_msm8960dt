@@ -1,2 +1,0 @@
-add_lunch_combo omni_moto_msm8960dt-userdebug
-add_lunch_combo full_moto_msm8960dt-userdebug
