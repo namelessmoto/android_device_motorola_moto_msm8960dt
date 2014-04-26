@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_moto_msm8960dt.mk \
-    $(LOCAL_DIR)/omni_moto_msm8960dt.mk
+    $(LOCAL_DIR)/full_moto_msm8960dt.mk \
+    $(LOCAL_DIR)/nameless_moto_msm8960dt.mk
